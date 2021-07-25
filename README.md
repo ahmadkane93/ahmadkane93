@@ -1,4 +1,4 @@
-<img src=/ahmad-banner.png/>
+<img src=/ahmad-banner.png height= 150px/>
 
 
 #### About Me:
