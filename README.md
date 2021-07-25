@@ -1,4 +1,4 @@
-<img src=/ahmad-banner.png height= 300px/>
+### Hello my name is Ahmad Kane 👋
 
 
 #### About Me:
