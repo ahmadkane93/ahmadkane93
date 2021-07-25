@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello my name is Ahmad Kane 👋
 
 <!--
 **ahmadkane93/ahmadkane93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
