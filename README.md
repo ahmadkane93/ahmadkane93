@@ -15,7 +15,7 @@
 ### Connect with me:
 <br>
 <ul>
-<dt> <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>: https://www.linkedin.com/in/ahmadkane/
+<dt> <img  width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>: https://www.linkedin.com/in/ahmadkane/
 <br>
 <dt> <img  width="26px" src="https://img.icons8.com/color/50/000000/youtube-play.png"/>: https://www.youtube.com/channel/UCzK8RzkatDpw-qYBgi5Hy5A/videos
 <br>
