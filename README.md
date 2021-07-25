@@ -22,6 +22,6 @@
 <br>
 
 ### Languages and Tools:
-Visual Studio Code, HTML5, CSS3, JavaScript, Node.js, MySQL, GitHub, Slack, Discord
+<bold> Visual Studio Code, HTML5, CSS3, JavaScript, Node.js, MySQL, GitHub, Slack, Discord </bold>
 
 
