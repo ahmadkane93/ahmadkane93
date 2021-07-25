@@ -15,7 +15,7 @@
 ### Connect with me:
 <br>
 <ul>
-<li> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> : https://www.linkedin.com/in/ahmadkane/
+<li> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>: <br> https://www.linkedin.com/in/ahmadkane/
 <li> <img src="https://img.icons8.com/color/50/000000/youtube-play.png"/>: https://www.youtube.com/channel/UCzK8RzkatDpw-qYBgi5Hy5A/videos
 <li> <img src="https://img.icons8.com/color/50/000000/instagram-new--v1.png"/>: https://www.instagram.com/mr.kane____/
 </ul>
