@@ -15,9 +15,9 @@
 #### Connect with me:
 <br>
 <ul>
-[linkedin]: https://www.linkedin.com/in/ahmadkane/
-[youtube]: https://www.youtube.com/channel/UCzK8RzkatDpw-qYBgi5Hy5A/videos
-[instagram]: https://www.instagram.com/mr.kane____/
+<li>[linkedin]: https://www.linkedin.com/in/ahmadkane/
+<li>[youtube]: https://www.youtube.com/channel/UCzK8RzkatDpw-qYBgi5Hy5A/videos
+<li>[instagram]: https://www.instagram.com/mr.kane____/
 </ul>
 <br>
 
