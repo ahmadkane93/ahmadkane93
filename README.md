@@ -1,9 +1,7 @@
 ### Hello my name is Ahmad Kane 👋
 
-<!--
-**ahmadkane93/ahmadkane93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+About Me:
 
 🔭 I'm currently figuring out how to use MYSQL Workbench!!
 🌱 I’m currently learning backend development 🤣
