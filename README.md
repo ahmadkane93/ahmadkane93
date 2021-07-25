@@ -11,6 +11,7 @@
 <li>⚡ Fun fact: I love to paint and I operate an art studio!
 </ul>
 <br>
+
 #### Connect with me:
 <br>
 [linkedin]: https://www.linkedin.com/in/ahmadkane/
