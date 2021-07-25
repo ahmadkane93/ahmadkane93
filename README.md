@@ -1,7 +1,7 @@
 ### Hello my name is Ahmad Kane 👋
 
 
-About Me:
+#### About Me:
 <br>
 <ul>
 <li>🔭 I'm currently figuring out how to use MYSQL Workbench!!
@@ -11,14 +11,15 @@ About Me:
 <li>⚡ Fun fact: I love to paint and I operate an art studio!
 </ul>
 <br>
-Connect with me:
+#### Connect with me:
+<br>
 [linkedin]: https://www.linkedin.com/in/ahmadkane/
 [youtube]: https://www.youtube.com/channel/UCzK8RzkatDpw-qYBgi5Hy5A/videos
 [instagram]: https://www.instagram.com/mr.kane____/
 
 <br>
 
-Languages and Tools:
+#### Languages and Tools:
 Visual Studio Code, HTML5, CSS3, JavaScript, Node.js, MySQL, GitHub, Slack, Discord
 
 
