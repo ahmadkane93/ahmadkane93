@@ -15,11 +15,11 @@
 ### Connect with me:
 <br>
 <ul>
-<li> <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>: https://www.linkedin.com/in/ahmadkane/
+<li> <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>: https://www.linkedin.com/in/ahmadkane/
 <br>
-<li> <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/50/000000/youtube-play.png"/>: https://www.youtube.com/channel/UCzK8RzkatDpw-qYBgi5Hy5A/videos
+<li> <img align="left" width="26px" src="https://img.icons8.com/color/50/000000/youtube-play.png"/>: https://www.youtube.com/channel/UCzK8RzkatDpw-qYBgi5Hy5A/videos
 <br>
-<li> <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/50/000000/instagram-new--v1.png"/>: https://www.instagram.com/mr.kane____/
+<li> <img align="left" width="26px" src="https://img.icons8.com/color/50/000000/instagram-new--v1.png"/>: https://www.instagram.com/mr.kane____/
 </ul>
 <br>
 
