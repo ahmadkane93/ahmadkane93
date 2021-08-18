@@ -1,4 +1,5 @@
 # Hello my name is Ahmad Kane 👋
+![profilegif](https://user-images.githubusercontent.com/82630118/129859488-2e7f9cec-fcd7-4c75-a0c5-e5f3c1bd7680.gif)
 
 
 ### About Me:
@@ -13,7 +14,7 @@
 <br>
 
 
-![profilegif](https://user-images.githubusercontent.com/82630118/129859488-2e7f9cec-fcd7-4c75-a0c5-e5f3c1bd7680.gif)
+
 
 
 ### Languages and Tools:
