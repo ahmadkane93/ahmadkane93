@@ -40,7 +40,7 @@
 <br>
 <dt> <img  width="26px" src="https://img.icons8.com/color/50/000000/youtube-play.png"/>: https://www.youtube.com/channel/UCzK8RzkatDpw-qYBgi5Hy5A/videos
 <br>
-<dt> <img  width="26px" src="https://img.icons8.com/color/50/000000/instagram-new--v1.png"/>: https://www.instagram.com/mr.kane____/
+
 </ul>
 
 
